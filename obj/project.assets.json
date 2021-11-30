@@ -7339,11 +7339,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\Documents\\tgamerApi\\tgamerApi.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe\\Documents\\Projetos\\tgamerApi\\tgamerApi.csproj",
       "projectName": "tgamerApi",
-      "projectPath": "C:\\Users\\Felipe\\Documents\\tgamerApi\\tgamerApi.csproj",
+      "projectPath": "C:\\Users\\Felipe\\Documents\\Projetos\\tgamerApi\\tgamerApi.csproj",
       "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe\\Documents\\tgamerApi\\obj\\",
+      "outputPath": "C:\\Users\\Felipe\\Documents\\Projetos\\tgamerApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

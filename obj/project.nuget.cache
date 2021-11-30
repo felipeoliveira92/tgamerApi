@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xDhrb37rZJeij8kq9tJk+cNuIsVC5wKV2pQkhjdVjB17mnfsk0l0uIlUb0I2BLjJt9oRkoAwxieL9U9dp4gI6w==",
+  "dgSpecHash": "JA0RgoaBmxfHIc1Egl2D1Pm0SlzflXffBURFnnsrP68dNvWUdL/SE0c+h1xOdwUe3xDC4sYPZNM7d10JvPnCuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Felipe\\Documents\\tgamerApi\\tgamerApi.csproj",
+  "projectFilePath": "C:\\Users\\Felipe\\Documents\\Projetos\\tgamerApi\\tgamerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

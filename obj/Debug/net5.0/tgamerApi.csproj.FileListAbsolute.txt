@@ -358,3 +358,6 @@ C:\Users\Felipe\Documents\Projetos\tgamerApi\obj\Debug\net5.0\tgamerApi.dll
 C:\Users\Felipe\Documents\Projetos\tgamerApi\obj\Debug\net5.0\ref\tgamerApi.dll
 C:\Users\Felipe\Documents\Projetos\tgamerApi\obj\Debug\net5.0\tgamerApi.pdb
 C:\Users\Felipe\Documents\Projetos\tgamerApi\obj\Debug\net5.0\tgamerApi.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Projetos\tgamerApi\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Felipe\Documents\Projetos\tgamerApi\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Felipe\Documents\Projetos\tgamerApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
